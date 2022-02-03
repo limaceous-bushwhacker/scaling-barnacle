@@ -1,1 +1,1 @@
-document.getElementById('footer').innerHTML = 'Made with ❤️';
+document.getElementById('footer').innerHTML = '©️ 2022 | Made by Roy ⚡️';
